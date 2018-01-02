@@ -597,7 +597,7 @@ Then we can change `start` and `build` scripts to include the CSS preprocessor c
 
 Now running `npm start` and `npm run build` also builds Sass files.
 
-**Why `node-sass-chokidar`?**
+**Why `node-sass-chokidar`?** 
 
 `node-sass` has been reported as having the following issues:
 
