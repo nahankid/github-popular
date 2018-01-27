@@ -1,5 +1,5 @@
 # github-popular.
-## Code for the GitHub popular platform / Tutorial on the MSDN blog.
+## Code for the GitHub popular platform / Tutorial on the Microsoft Developer Network Blog.
 GitHub Popular Application which classes the most popular Repositories on GitHub in general or by language by using the GitHub API to fetch info about all the repos.
 
 Check the full tutorial [here](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/07/21/using-react-and-building-a-web-site-on-azure/).
